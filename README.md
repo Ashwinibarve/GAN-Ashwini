@@ -1,1 +1,1 @@
-# GAN-Ashwini
+GAN
